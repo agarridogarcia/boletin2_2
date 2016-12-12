@@ -13,7 +13,7 @@ public class Boletin2_2 {
         lado=Float.parseFloat(JOptionPane.showInputDialog("lado"));
         area=lado*lado;
                         
-        JOptionPane.showMessageDialog(null, "area=" +area);
+        JOptionPane.showMessageDialog(null, "area==" +area);
         
         
         
